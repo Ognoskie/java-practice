@@ -7,5 +7,7 @@ public class JavaPractice {
         System.out.println("myFirstNumber");
         myFirstNumber = 10;
         System.out.println(myFirstNumber);
+        myFirstNumber = 1000;
+        System.out.println(myFirstNumber);
     }
 }
